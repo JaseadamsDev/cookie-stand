@@ -1,0 +1,7 @@
+body {
+    background: #F5BF3D;
+    background: -moz-radial-gradient(center, #F5BF3D 0%, #B59227 58%, #C55616 100%);
+    background: -webkit-radial-gradient(center, #F5BF3D 0%, #B59227 58%, #C55616 100%);
+    background: radial-gradient(ellipse at center, #F5BF3D 0%, #B59227 58%, #C55616 100%);
+    
+    }
